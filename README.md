@@ -1,1 +1,3 @@
-A simple game of battleship in C++. Created in 2014 as a project for an Object Oriented Programming course.
+This is a university project for the course "Object Oriented Programming course".
+
+The aim of the project was to create the well known game Battleship.
